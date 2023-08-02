@@ -1,0 +1,762 @@
+[
+  {
+    "service": [
+      {
+        "id": "931741c1-4a19-4915-b75f-136d268650d3",
+        "name": "Web Development",
+        "description": "We create stunning websites",
+        "created_at": "2023-08-02T10:04:10.498Z",
+        "updated_at": "2023-08-01T15:20:46.899Z"
+      },
+      {
+        "id": "906f1a60-b373-4590-899c-8cf37e20344e",
+        "name": "Graphic Design",
+        "description": "We design eye-catching graphics",
+        "created_at": "2023-08-02T04:45:17.852Z",
+        "updated_at": "2023-08-02T09:52:34.526Z"
+      },
+      {
+        "id": "2838eeab-7ef6-439e-bf6d-9b6986a24b19",
+        "name": "Digital Marketing",
+        "description": "We help businesses grow online",
+        "created_at": "2023-08-01T21:11:50.387Z",
+        "updated_at": "2023-08-02T04:16:43.151Z"
+      },
+      {
+        "id": "ee10f858-3038-4149-bea6-691743175fdf",
+        "name": "Mobile App Development",
+        "description": "We build innovative mobile apps",
+        "created_at": "2023-08-02T00:21:23.800Z",
+        "updated_at": "2023-08-02T06:07:52.366Z"
+      },
+      {
+        "id": "44330974-8ef4-44a3-b8b5-d196d01637b2",
+        "name": "SEO Services",
+        "description": "We optimize websites for search engines",
+        "created_at": "2023-08-01T18:10:16.061Z",
+        "updated_at": "2023-08-02T05:53:45.930Z"
+      }
+    ],
+    "company_service": [
+      {
+        "id": "2012dfb0-b466-4786-b84c-5c6aa9def06c",
+        "created_at": "2023-08-01T13:40:46.265Z",
+        "updated_at": "2023-08-02T05:32:35.291Z",
+        "company_id": "main_entity_pk",
+        "service_id": "931741c1-4a19-4915-b75f-136d268650d3"
+      },
+      {
+        "id": "a3cf77b6-f09f-403b-9957-fed2bb06d693",
+        "created_at": "2023-08-02T09:47:30.870Z",
+        "updated_at": "2023-08-02T00:45:52.601Z",
+        "company_id": "main_entity_pk",
+        "service_id": "931741c1-4a19-4915-b75f-136d268650d3"
+      },
+      {
+        "id": "fa26cbda-981f-48ca-819a-f3e260322614",
+        "created_at": "2023-08-02T05:24:07.035Z",
+        "updated_at": "2023-08-01T17:23:20.489Z",
+        "company_id": "main_entity_pk",
+        "service_id": "931741c1-4a19-4915-b75f-136d268650d3"
+      },
+      {
+        "id": "3d0d4c90-dd8a-4a37-ac52-172d8bb0f4c9",
+        "created_at": "2023-08-01T12:58:59.275Z",
+        "updated_at": "2023-08-02T03:51:45.123Z",
+        "company_id": "main_entity_pk",
+        "service_id": "906f1a60-b373-4590-899c-8cf37e20344e"
+      },
+      {
+        "id": "6629cbc2-58ca-452c-b068-fab027acd136",
+        "created_at": "2023-08-01T16:00:51.914Z",
+        "updated_at": "2023-08-01T21:45:42.952Z",
+        "company_id": "main_entity_pk",
+        "service_id": "2838eeab-7ef6-439e-bf6d-9b6986a24b19"
+      }
+    ]
+  },
+  {
+    "service": [
+      {
+        "id": "4a9a2825-624d-4e34-8230-691061ed3596",
+        "name": "Web Development",
+        "description": "We create stunning websites",
+        "created_at": "2023-08-01T22:49:45.287Z",
+        "updated_at": "2023-08-02T10:09:44.999Z"
+      },
+      {
+        "id": "4120d80f-dcff-4079-80e2-581d08208545",
+        "name": "Graphic Design",
+        "description": "We design eye-catching graphics",
+        "created_at": "2023-08-01T11:56:26.277Z",
+        "updated_at": "2023-08-01T23:13:17.030Z"
+      },
+      {
+        "id": "af378efe-2e83-4697-b134-336fea5adf87",
+        "name": "Digital Marketing",
+        "description": "We help businesses grow online",
+        "created_at": "2023-08-01T20:17:29.170Z",
+        "updated_at": "2023-08-02T06:19:03.830Z"
+      },
+      {
+        "id": "77f015b7-7991-49a1-9430-49cb5919df1b",
+        "name": "Mobile App Development",
+        "description": "We build innovative mobile apps",
+        "created_at": "2023-08-02T08:36:13.496Z",
+        "updated_at": "2023-08-01T14:25:48.029Z"
+      },
+      {
+        "id": "a9e8b08b-1d7f-4ee4-91de-6d894dbec8b6",
+        "name": "SEO Services",
+        "description": "We optimize websites for search engines",
+        "created_at": "2023-08-02T07:42:57.252Z",
+        "updated_at": "2023-08-02T10:11:29.378Z"
+      }
+    ],
+    "company_service": [
+      {
+        "id": "b2c5a943-f3d6-4510-a29d-e381a51dbaba",
+        "created_at": "2023-08-01T21:36:59.270Z",
+        "updated_at": "2023-08-02T03:52:13.516Z",
+        "company_id": "main_entity_pk",
+        "service_id": "a9e8b08b-1d7f-4ee4-91de-6d894dbec8b6"
+      },
+      {
+        "id": "bc683dec-a0ac-413e-a345-bbc892fd23cb",
+        "created_at": "2023-08-02T00:57:58.786Z",
+        "updated_at": "2023-08-01T16:02:13.907Z",
+        "company_id": "main_entity_pk",
+        "service_id": "4120d80f-dcff-4079-80e2-581d08208545"
+      },
+      {
+        "id": "37235b9a-9cd0-45de-9215-95af75bcd640",
+        "created_at": "2023-08-02T07:42:09.776Z",
+        "updated_at": "2023-08-01T17:47:28.486Z",
+        "company_id": "main_entity_pk",
+        "service_id": "77f015b7-7991-49a1-9430-49cb5919df1b"
+      },
+      {
+        "id": "745abced-45cc-474a-afe5-0a7807bb8ec5",
+        "created_at": "2023-08-02T06:38:37.605Z",
+        "updated_at": "2023-08-01T21:24:52.699Z",
+        "company_id": "main_entity_pk",
+        "service_id": "a9e8b08b-1d7f-4ee4-91de-6d894dbec8b6"
+      },
+      {
+        "id": "29d7bec6-c8b5-4d1e-bdcb-54aca695ea29",
+        "created_at": "2023-08-01T16:28:30.382Z",
+        "updated_at": "2023-08-01T22:57:51.885Z",
+        "company_id": "main_entity_pk",
+        "service_id": "af378efe-2e83-4697-b134-336fea5adf87"
+      }
+    ]
+  },
+  {
+    "service": [
+      {
+        "id": "1305130e-44af-46e3-ba52-03d510601670",
+        "name": "Web Development",
+        "description": "We create stunning websites",
+        "created_at": "2023-08-01T13:05:14.980Z",
+        "updated_at": "2023-08-02T03:18:11.573Z"
+      },
+      {
+        "id": "78c1bf93-29a3-4b8f-aa30-fdd53b95417d",
+        "name": "Graphic Design",
+        "description": "We design eye-catching graphics",
+        "created_at": "2023-08-02T10:39:43.630Z",
+        "updated_at": "2023-08-01T23:39:39.815Z"
+      },
+      {
+        "id": "ef9effde-27a3-444e-877a-42ebe8e44326",
+        "name": "Digital Marketing",
+        "description": "We help businesses grow online",
+        "created_at": "2023-08-02T08:33:57.007Z",
+        "updated_at": "2023-08-01T13:49:56.848Z"
+      },
+      {
+        "id": "d206d16b-d9a5-4e04-846d-c708b9e4b52c",
+        "name": "Mobile App Development",
+        "description": "We build innovative mobile apps",
+        "created_at": "2023-08-01T16:42:02.754Z",
+        "updated_at": "2023-08-02T07:42:52.673Z"
+      },
+      {
+        "id": "9b184741-86b4-404d-a64b-2d35a4f7fb35",
+        "name": "SEO Services",
+        "description": "We optimize websites for search engines",
+        "created_at": "2023-08-01T14:41:51.811Z",
+        "updated_at": "2023-08-02T08:42:59.076Z"
+      }
+    ],
+    "company_service": [
+      {
+        "id": "acd10fa9-a98e-4ad1-b30e-19ae031ec422",
+        "created_at": "2023-08-01T12:53:34.225Z",
+        "updated_at": "2023-08-01T12:16:47.669Z",
+        "company_id": "main_entity_pk",
+        "service_id": "ef9effde-27a3-444e-877a-42ebe8e44326"
+      },
+      {
+        "id": "8ce5fd39-077e-4b16-8c84-7b9f8b0dccc1",
+        "created_at": "2023-08-01T14:42:51.282Z",
+        "updated_at": "2023-08-01T11:34:08.504Z",
+        "company_id": "main_entity_pk",
+        "service_id": "9b184741-86b4-404d-a64b-2d35a4f7fb35"
+      },
+      {
+        "id": "fa9c6213-465e-455a-ae45-7841b845448a",
+        "created_at": "2023-08-01T11:28:17.843Z",
+        "updated_at": "2023-08-01T23:55:08.781Z",
+        "company_id": "main_entity_pk",
+        "service_id": "1305130e-44af-46e3-ba52-03d510601670"
+      },
+      {
+        "id": "88ad9a17-b2c5-4a39-890a-8d7205a7ff3b",
+        "created_at": "2023-08-01T22:47:26.116Z",
+        "updated_at": "2023-08-01T18:08:32.080Z",
+        "company_id": "main_entity_pk",
+        "service_id": "d206d16b-d9a5-4e04-846d-c708b9e4b52c"
+      },
+      {
+        "id": "765476b7-d66a-4554-913c-c15b4980c3ea",
+        "created_at": "2023-08-02T09:10:28.965Z",
+        "updated_at": "2023-08-02T07:25:25.803Z",
+        "company_id": "main_entity_pk",
+        "service_id": "9b184741-86b4-404d-a64b-2d35a4f7fb35"
+      }
+    ]
+  },
+  {
+    "service": [
+      {
+        "id": "ce0e24e9-78d5-4c9c-bf73-47e39b3596f6",
+        "name": "Web Development",
+        "description": "We create stunning websites",
+        "created_at": "2023-08-01T19:20:30.895Z",
+        "updated_at": "2023-08-02T01:27:42.819Z"
+      },
+      {
+        "id": "8bdd8273-f5a3-45df-8a88-7266a78f94ac",
+        "name": "Graphic Design",
+        "description": "We design eye-catching graphics",
+        "created_at": "2023-08-01T12:53:02.272Z",
+        "updated_at": "2023-08-02T08:58:23.698Z"
+      },
+      {
+        "id": "0aead063-bf1a-463a-8542-c982e25d9eef",
+        "name": "Digital Marketing",
+        "description": "We help businesses grow online",
+        "created_at": "2023-08-01T22:54:15.623Z",
+        "updated_at": "2023-08-01T20:13:27.997Z"
+      },
+      {
+        "id": "c75fd611-a423-4d8b-b012-d91ff0401f63",
+        "name": "Mobile App Development",
+        "description": "We build innovative mobile apps",
+        "created_at": "2023-08-01T16:58:38.700Z",
+        "updated_at": "2023-08-01T17:02:47.358Z"
+      },
+      {
+        "id": "7e603ae7-73be-4c9f-9d4c-9764b87b5ca3",
+        "name": "SEO Services",
+        "description": "We optimize websites for search engines",
+        "created_at": "2023-08-02T06:07:03.023Z",
+        "updated_at": "2023-08-01T17:15:31.160Z"
+      }
+    ],
+    "company_service": [
+      {
+        "id": "613e9e4d-4dc0-421a-bbaf-8695248b05aa",
+        "created_at": "2023-08-02T05:49:12.614Z",
+        "updated_at": "2023-08-01T22:15:09.192Z",
+        "company_id": "main_entity_pk",
+        "service_id": "c75fd611-a423-4d8b-b012-d91ff0401f63"
+      },
+      {
+        "id": "b86e7f12-9586-4e88-9bca-603ed63440d2",
+        "created_at": "2023-08-01T16:12:38.085Z",
+        "updated_at": "2023-08-01T15:25:46.362Z",
+        "company_id": "main_entity_pk",
+        "service_id": "c75fd611-a423-4d8b-b012-d91ff0401f63"
+      },
+      {
+        "id": "625ed51c-0551-41fd-95f1-4a5ffa2c5a8a",
+        "created_at": "2023-08-01T18:01:42.249Z",
+        "updated_at": "2023-08-01T21:11:58.500Z",
+        "company_id": "main_entity_pk",
+        "service_id": "ce0e24e9-78d5-4c9c-bf73-47e39b3596f6"
+      },
+      {
+        "id": "0d4a424f-bc4a-44ac-8ce6-1abc2064b1b3",
+        "created_at": "2023-08-01T13:38:15.420Z",
+        "updated_at": "2023-08-01T14:59:07.601Z",
+        "company_id": "main_entity_pk",
+        "service_id": "ce0e24e9-78d5-4c9c-bf73-47e39b3596f6"
+      },
+      {
+        "id": "ffc92af3-285a-48aa-b07f-4354f7f09078",
+        "created_at": "2023-08-01T14:38:13.487Z",
+        "updated_at": "2023-08-01T11:32:12.652Z",
+        "company_id": "main_entity_pk",
+        "service_id": "ce0e24e9-78d5-4c9c-bf73-47e39b3596f6"
+      }
+    ]
+  },
+  {
+    "service": [
+      {
+        "id": "d1a5788c-7546-462b-8bdd-e21007b04e50",
+        "name": "Web Development",
+        "description": "We create stunning websites tailored to your business needs.",
+        "created_at": "2023-08-01T18:28:19.377Z",
+        "updated_at": "2023-08-01T14:53:21.024Z"
+      },
+      {
+        "id": "44bb66b2-0c71-43a0-a4bf-17e0da9449c5",
+        "name": "Graphic Design",
+        "description": "Our team of designers will bring your ideas to life.",
+        "created_at": "2023-08-02T01:25:43.356Z",
+        "updated_at": "2023-08-01T23:36:22.093Z"
+      },
+      {
+        "id": "2f6ec8b9-c61e-4c4a-af73-8dde7d9254f7",
+        "name": "Digital Marketing",
+        "description": "Boost your online presence with our effective marketing strategies.",
+        "created_at": "2023-08-02T03:33:30.489Z",
+        "updated_at": "2023-08-01T17:54:19.809Z"
+      },
+      {
+        "id": "35ed86ed-5492-4313-bcb5-852cd29b7b38",
+        "name": "Mobile App Development",
+        "description": "We build innovative and user-friendly mobile apps.",
+        "created_at": "2023-08-01T11:25:03.353Z",
+        "updated_at": "2023-08-01T18:36:58.469Z"
+      },
+      {
+        "id": "9eb53dc6-ff3a-4b36-b3dd-170332bc9045",
+        "name": "SEO Services",
+        "description": "Improve your website's visibility and increase organic traffic.",
+        "created_at": "2023-08-02T06:41:35.555Z",
+        "updated_at": "2023-08-01T12:53:40.538Z"
+      }
+    ],
+    "company_service": [
+      {
+        "id": "8d364ab3-b764-4a2e-b8ee-7611b53af4e4",
+        "created_at": "2023-08-01T12:10:41.109Z",
+        "updated_at": "2023-08-01T19:27:53.593Z",
+        "company_id": "main_entity_pk",
+        "service_id": "35ed86ed-5492-4313-bcb5-852cd29b7b38"
+      },
+      {
+        "id": "12e17646-4bd3-40a8-8bd4-138ee23263d9",
+        "created_at": "2023-08-02T02:03:52.738Z",
+        "updated_at": "2023-08-02T06:24:42.448Z",
+        "company_id": "main_entity_pk",
+        "service_id": "35ed86ed-5492-4313-bcb5-852cd29b7b38"
+      },
+      {
+        "id": "038073e5-5039-4079-b4a2-185e7b3b0712",
+        "created_at": "2023-08-01T18:18:14.940Z",
+        "updated_at": "2023-08-02T07:50:36.783Z",
+        "company_id": "main_entity_pk",
+        "service_id": "44bb66b2-0c71-43a0-a4bf-17e0da9449c5"
+      },
+      {
+        "id": "9100765c-551b-43af-b731-2ff704c9d6aa",
+        "created_at": "2023-08-01T11:52:02.218Z",
+        "updated_at": "2023-08-01T11:51:38.365Z",
+        "company_id": "main_entity_pk",
+        "service_id": "9eb53dc6-ff3a-4b36-b3dd-170332bc9045"
+      },
+      {
+        "id": "f06056cb-35dc-48dc-8235-446f70215a14",
+        "created_at": "2023-08-02T03:29:00.824Z",
+        "updated_at": "2023-08-01T12:26:58.540Z",
+        "company_id": "main_entity_pk",
+        "service_id": "35ed86ed-5492-4313-bcb5-852cd29b7b38"
+      }
+    ]
+  },
+  {
+    "service": [
+      {
+        "id": "9ee2040f-1ffa-4210-ab21-7ddd4ff807fb",
+        "name": "Web Development",
+        "description": "We create stunning websites",
+        "created_at": "2023-08-01T21:23:02.233Z",
+        "updated_at": "2023-08-01T11:58:59.936Z"
+      },
+      {
+        "id": "61056075-8eaf-42b3-843b-ef4d40e1ad27",
+        "name": "Graphic Design",
+        "description": "We design eye-catching graphics",
+        "created_at": "2023-08-02T06:32:36.412Z",
+        "updated_at": "2023-08-01T12:35:51.010Z"
+      },
+      {
+        "id": "65d7b010-3927-42a7-8810-9aaea5bf7d48",
+        "name": "Digital Marketing",
+        "description": "We help businesses grow online",
+        "created_at": "2023-08-01T23:08:44.321Z",
+        "updated_at": "2023-08-02T03:58:57.183Z"
+      },
+      {
+        "id": "c3e23e03-b73e-49dc-95e6-919663e67987",
+        "name": "Mobile App Development",
+        "description": "We build innovative mobile apps",
+        "created_at": "2023-08-01T19:36:58.500Z",
+        "updated_at": "2023-08-02T09:02:30.073Z"
+      },
+      {
+        "id": "3b5bddce-2c41-4263-a362-b57c8d7b9ff5",
+        "name": "SEO Services",
+        "description": "We optimize websites for search engines",
+        "created_at": "2023-08-01T13:18:15.904Z",
+        "updated_at": "2023-08-01T17:43:15.824Z"
+      }
+    ],
+    "company_service": [
+      {
+        "id": "ecad568b-a413-4442-816e-65e3f4354d65",
+        "created_at": "2023-08-02T10:09:33.098Z",
+        "updated_at": "2023-08-02T06:37:53.926Z",
+        "company_id": "main_entity_pk",
+        "service_id": "65d7b010-3927-42a7-8810-9aaea5bf7d48"
+      },
+      {
+        "id": "7e905ce6-f31a-41a2-831c-b6f8541affff",
+        "created_at": "2023-08-02T07:49:35.176Z",
+        "updated_at": "2023-08-01T12:02:29.937Z",
+        "company_id": "main_entity_pk",
+        "service_id": "65d7b010-3927-42a7-8810-9aaea5bf7d48"
+      },
+      {
+        "id": "23cbdd6f-d691-46ab-bd48-c0b47738f072",
+        "created_at": "2023-08-02T07:10:40.148Z",
+        "updated_at": "2023-08-02T02:04:55.448Z",
+        "company_id": "main_entity_pk",
+        "service_id": "9ee2040f-1ffa-4210-ab21-7ddd4ff807fb"
+      },
+      {
+        "id": "8593adbc-27df-4d1e-b855-e605ba453e13",
+        "created_at": "2023-08-02T01:51:53.632Z",
+        "updated_at": "2023-08-02T07:05:20.517Z",
+        "company_id": "main_entity_pk",
+        "service_id": "9ee2040f-1ffa-4210-ab21-7ddd4ff807fb"
+      },
+      {
+        "id": "2da9b6d2-54ee-4155-b472-696622e456b0",
+        "created_at": "2023-08-01T14:31:25.156Z",
+        "updated_at": "2023-08-01T15:24:45.695Z",
+        "company_id": "main_entity_pk",
+        "service_id": "65d7b010-3927-42a7-8810-9aaea5bf7d48"
+      }
+    ]
+  },
+  {
+    "service": [
+      {
+        "id": "6179f07e-cd99-4690-9faa-ee9ff466c710",
+        "name": "Web Development",
+        "description": "We create stunning websites",
+        "created_at": "2023-08-01T16:03:53.097Z",
+        "updated_at": "2023-08-01T15:11:48.947Z"
+      },
+      {
+        "id": "88820454-fe8d-4709-8bfd-e8e9e7a275f3",
+        "name": "Graphic Design",
+        "description": "We design eye-catching graphics",
+        "created_at": "2023-08-02T10:48:31.126Z",
+        "updated_at": "2023-08-01T19:29:32.061Z"
+      },
+      {
+        "id": "d4c710ce-9729-4eab-bb53-1513116d4049",
+        "name": "Digital Marketing",
+        "description": "We help businesses grow online",
+        "created_at": "2023-08-01T23:55:29.419Z",
+        "updated_at": "2023-08-01T13:08:02.889Z"
+      },
+      {
+        "id": "d7eed51a-6a8b-4f6a-92d7-8d84347d8ee1",
+        "name": "Mobile App Development",
+        "description": "We build innovative mobile apps",
+        "created_at": "2023-08-01T20:05:26.077Z",
+        "updated_at": "2023-08-01T17:21:40.580Z"
+      },
+      {
+        "id": "d60cf5b2-c13a-44e0-aadc-689e0323b333",
+        "name": "SEO Services",
+        "description": "We optimize websites for search engines",
+        "created_at": "2023-08-01T14:33:14.994Z",
+        "updated_at": "2023-08-01T23:40:52.296Z"
+      }
+    ],
+    "company_service": [
+      {
+        "id": "f47fdae0-f0bf-4144-9b0e-c1a47becd1b9",
+        "created_at": "2023-08-01T14:14:59.458Z",
+        "updated_at": "2023-08-02T01:25:58.498Z",
+        "company_id": "main_entity_pk",
+        "service_id": "d60cf5b2-c13a-44e0-aadc-689e0323b333"
+      },
+      {
+        "id": "5f395d56-619e-49d9-8b8d-ba1a1cdca703",
+        "created_at": "2023-08-02T03:14:59.198Z",
+        "updated_at": "2023-08-01T18:40:36.405Z",
+        "company_id": "main_entity_pk",
+        "service_id": "d4c710ce-9729-4eab-bb53-1513116d4049"
+      },
+      {
+        "id": "0000f1ee-6288-4db4-b764-4d0de1b53a31",
+        "created_at": "2023-08-02T11:16:33.463Z",
+        "updated_at": "2023-08-02T09:18:49.113Z",
+        "company_id": "main_entity_pk",
+        "service_id": "d4c710ce-9729-4eab-bb53-1513116d4049"
+      },
+      {
+        "id": "5d7e88df-61dd-4870-92fc-63b7350099db",
+        "created_at": "2023-08-01T18:24:15.359Z",
+        "updated_at": "2023-08-01T14:40:40.174Z",
+        "company_id": "main_entity_pk",
+        "service_id": "88820454-fe8d-4709-8bfd-e8e9e7a275f3"
+      },
+      {
+        "id": "0b9bdad1-5ea9-4bd9-bd09-2b753c209268",
+        "created_at": "2023-08-01T15:29:52.495Z",
+        "updated_at": "2023-08-01T22:17:47.877Z",
+        "company_id": "main_entity_pk",
+        "service_id": "d7eed51a-6a8b-4f6a-92d7-8d84347d8ee1"
+      }
+    ]
+  },
+  {
+    "service": [
+      {
+        "id": "75475601-fc97-4cb4-8307-b8f45f279938",
+        "name": "Web Development",
+        "description": "We create stunning websites",
+        "created_at": "2023-08-02T00:28:55.146Z",
+        "updated_at": "2023-08-01T16:06:31.360Z"
+      },
+      {
+        "id": "6efbbdc3-0567-476e-9d96-3033f9249836",
+        "name": "Graphic Design",
+        "description": "We design eye-catching graphics",
+        "created_at": "2023-08-01T12:43:46.264Z",
+        "updated_at": "2023-08-02T05:28:02.815Z"
+      },
+      {
+        "id": "33163609-84ff-4a7d-bc9a-f0b2f9d9de24",
+        "name": "Digital Marketing",
+        "description": "We help businesses grow online",
+        "created_at": "2023-08-01T15:24:34.710Z",
+        "updated_at": "2023-08-02T10:29:54.818Z"
+      },
+      {
+        "id": "e3705c0e-fa29-48a3-8e6e-fd175cbc5562",
+        "name": "Mobile App Development",
+        "description": "We build innovative mobile apps",
+        "created_at": "2023-08-02T02:10:00.405Z",
+        "updated_at": "2023-08-01T19:51:47.242Z"
+      },
+      {
+        "id": "7fedea79-ee9f-4a2b-8c73-79b6b17bcb95",
+        "name": "SEO Services",
+        "description": "We optimize websites for search engines",
+        "created_at": "2023-08-01T21:58:10.598Z",
+        "updated_at": "2023-08-01T17:16:07.217Z"
+      }
+    ],
+    "company_service": [
+      {
+        "id": "31c81fae-d3a5-4d31-ac0c-a85eb166d0df",
+        "created_at": "2023-08-02T00:28:41.115Z",
+        "updated_at": "2023-08-02T10:11:33.716Z",
+        "company_id": "main_entity_pk",
+        "service_id": "6efbbdc3-0567-476e-9d96-3033f9249836"
+      },
+      {
+        "id": "d912f758-8c9f-4ad3-b9e2-f7654b57aba4",
+        "created_at": "2023-08-01T14:28:03.058Z",
+        "updated_at": "2023-08-01T12:23:03.142Z",
+        "company_id": "main_entity_pk",
+        "service_id": "e3705c0e-fa29-48a3-8e6e-fd175cbc5562"
+      },
+      {
+        "id": "c7d8514f-0899-4f56-b3ac-ed3421612ecf",
+        "created_at": "2023-08-01T20:46:02.981Z",
+        "updated_at": "2023-08-02T04:23:52.304Z",
+        "company_id": "main_entity_pk",
+        "service_id": "75475601-fc97-4cb4-8307-b8f45f279938"
+      },
+      {
+        "id": "7fed6c5a-8031-40a2-88a3-5c9f70ccbb5f",
+        "created_at": "2023-08-02T00:46:02.610Z",
+        "updated_at": "2023-08-01T23:26:15.853Z",
+        "company_id": "main_entity_pk",
+        "service_id": "33163609-84ff-4a7d-bc9a-f0b2f9d9de24"
+      },
+      {
+        "id": "5b5548d1-ae06-4438-948e-a92e567c0c4d",
+        "created_at": "2023-08-01T18:05:56.236Z",
+        "updated_at": "2023-08-02T07:00:45.389Z",
+        "company_id": "main_entity_pk",
+        "service_id": "75475601-fc97-4cb4-8307-b8f45f279938"
+      }
+    ]
+  },
+  {
+    "service": [
+      {
+        "id": "6f2f4146-2d11-456d-866f-6ff21ac7334b",
+        "name": "Web Development",
+        "description": "We create stunning websites",
+        "created_at": "2023-08-02T10:38:26.194Z",
+        "updated_at": "2023-08-02T00:35:38.031Z"
+      },
+      {
+        "id": "ee7f7a67-a0e4-4550-814e-f6263d72c4f4",
+        "name": "Graphic Design",
+        "description": "We design eye-catching graphics",
+        "created_at": "2023-08-02T04:16:17.820Z",
+        "updated_at": "2023-08-02T07:54:17.381Z"
+      },
+      {
+        "id": "36d1b49c-d3a9-4be3-9d9f-5196ef6ca008",
+        "name": "Digital Marketing",
+        "description": "We help businesses grow online",
+        "created_at": "2023-08-02T02:36:40.434Z",
+        "updated_at": "2023-08-01T18:38:25.358Z"
+      },
+      {
+        "id": "c77138bd-b976-426b-bd56-ce78da3a742c",
+        "name": "Mobile App Development",
+        "description": "We build innovative mobile apps",
+        "created_at": "2023-08-01T18:38:23.062Z",
+        "updated_at": "2023-08-01T22:42:07.731Z"
+      },
+      {
+        "id": "191bfa7b-6b3c-4d1a-994c-323199d5a4f6",
+        "name": "SEO Services",
+        "description": "We optimize websites for search engines",
+        "created_at": "2023-08-01T18:38:16.697Z",
+        "updated_at": "2023-08-01T17:42:53.620Z"
+      }
+    ],
+    "company_service": [
+      {
+        "id": "5e0045ba-c634-4859-8ec8-0c1df0cc3d25",
+        "created_at": "2023-08-01T20:05:34.827Z",
+        "updated_at": "2023-08-02T02:21:56.386Z",
+        "company_id": "main_entity_pk",
+        "service_id": "36d1b49c-d3a9-4be3-9d9f-5196ef6ca008"
+      },
+      {
+        "id": "95816004-a00e-48b1-b857-7370b3bb1df5",
+        "created_at": "2023-08-02T09:38:27.789Z",
+        "updated_at": "2023-08-01T11:36:09.476Z",
+        "company_id": "main_entity_pk",
+        "service_id": "191bfa7b-6b3c-4d1a-994c-323199d5a4f6"
+      },
+      {
+        "id": "689a62ef-cd26-4a44-917f-f2b19a499027",
+        "created_at": "2023-08-02T09:36:04.950Z",
+        "updated_at": "2023-08-01T18:09:11.056Z",
+        "company_id": "main_entity_pk",
+        "service_id": "36d1b49c-d3a9-4be3-9d9f-5196ef6ca008"
+      },
+      {
+        "id": "10577441-8867-4a56-a979-ec38cd87b66c",
+        "created_at": "2023-08-02T04:29:47.447Z",
+        "updated_at": "2023-08-02T07:37:22.726Z",
+        "company_id": "main_entity_pk",
+        "service_id": "c77138bd-b976-426b-bd56-ce78da3a742c"
+      },
+      {
+        "id": "998a9fbc-70c7-4203-84ba-af44d428f3d9",
+        "created_at": "2023-08-02T05:10:28.028Z",
+        "updated_at": "2023-08-02T09:38:10.144Z",
+        "company_id": "main_entity_pk",
+        "service_id": "6f2f4146-2d11-456d-866f-6ff21ac7334b"
+      }
+    ]
+  },
+  {
+    "service": [
+      {
+        "id": "7ecd56e3-03d1-4372-a029-3992ebd17f7b",
+        "name": "Web Development",
+        "description": "We create stunning websites",
+        "created_at": "2023-08-02T07:37:29.759Z",
+        "updated_at": "2023-08-02T05:31:55.233Z"
+      },
+      {
+        "id": "18b39ef7-d0ae-400d-9eb4-e13e528f6eab",
+        "name": "Graphic Design",
+        "description": "We design eye-catching graphics",
+        "created_at": "2023-08-01T15:24:10.789Z",
+        "updated_at": "2023-08-01T14:46:41.928Z"
+      },
+      {
+        "id": "3425e0f2-c7a4-4937-90dc-4a8b16824ed4",
+        "name": "Digital Marketing",
+        "description": "We help businesses grow online",
+        "created_at": "2023-08-02T06:12:31.334Z",
+        "updated_at": "2023-08-01T20:33:35.865Z"
+      },
+      {
+        "id": "f6a2af3c-3dc6-4649-af49-115eb36d18d2",
+        "name": "Mobile App Development",
+        "description": "We build innovative mobile apps",
+        "created_at": "2023-08-01T22:07:23.362Z",
+        "updated_at": "2023-08-02T02:11:13.717Z"
+      },
+      {
+        "id": "a5cffe52-232a-4a35-9712-4c3892c06926",
+        "name": "SEO Services",
+        "description": "We optimize websites for search engines",
+        "created_at": "2023-08-02T06:24:07.918Z",
+        "updated_at": "2023-08-01T23:55:09.200Z"
+      }
+    ],
+    "company_service": [
+      {
+        "id": "56c63c80-6c0d-469f-bde5-1895d5c13a56",
+        "created_at": "2023-08-02T02:34:45.204Z",
+        "updated_at": "2023-08-01T21:01:50.851Z",
+        "company_id": "main_entity_pk",
+        "service_id": "7ecd56e3-03d1-4372-a029-3992ebd17f7b"
+      },
+      {
+        "id": "29aa8a5f-1435-488b-9818-ea2c9dd6a52b",
+        "created_at": "2023-08-01T23:16:08.622Z",
+        "updated_at": "2023-08-02T09:03:41.071Z",
+        "company_id": "main_entity_pk",
+        "service_id": "7ecd56e3-03d1-4372-a029-3992ebd17f7b"
+      },
+      {
+        "id": "dbac2869-6df5-4d1f-a168-9b0e76cf4ba0",
+        "created_at": "2023-08-02T09:17:46.805Z",
+        "updated_at": "2023-08-02T01:10:13.300Z",
+        "company_id": "main_entity_pk",
+        "service_id": "3425e0f2-c7a4-4937-90dc-4a8b16824ed4"
+      },
+      {
+        "id": "824b6fc6-950f-45ae-9bc7-b8c2d416c28b",
+        "created_at": "2023-08-02T01:34:38.058Z",
+        "updated_at": "2023-08-02T09:57:26.254Z",
+        "company_id": "main_entity_pk",
+        "service_id": "a5cffe52-232a-4a35-9712-4c3892c06926"
+      },
+      {
+        "id": "91287ded-a4f9-4750-96b1-fa544e4be026",
+        "created_at": "2023-08-01T13:21:28.527Z",
+        "updated_at": "2023-08-02T09:10:04.093Z",
+        "company_id": "main_entity_pk",
+        "service_id": "18b39ef7-d0ae-400d-9eb4-e13e528f6eab"
+      }
+    ]
+  }
+]
